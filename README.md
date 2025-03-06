@@ -23,11 +23,10 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 
 <h2>High-Level Steps</h2>
 
-- Observe ICMP Traffic
-- Observe SSH Traffic
-- Observe DHCP Traffic
-- Observe DNS Traffic
-- Observe RDP Traffic
+- Create Virtual Machines in Azure.
+- Observe ICMP traffic between Virtual Machines using Wireshark.
+- Configure a Firewall (Network Security Group) and analyze its impact on network traffic.
+- Observe various protocol traffic (SSH, DHCP, DNS, RDP) using Wireshark.
 
 
 <h2>Actions and Observations</h2>
